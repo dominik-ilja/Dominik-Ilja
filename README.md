@@ -1,22 +1,12 @@
-### Hi there 👋
+# Welcome
+My name is Dominik, but I also go by Ilja. I love design, UI, and creating beautiful works. Being able to create each day is a wonderful blessing. I'm hoping to dive into more open source this year. I'm also excited to showcase all I've learned through my studies.
 
-### Languages and Tools:
+
 <img src="./images/tech-alt.png" height="26px">
 
-### GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dominik-Ilja&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+## Stats 
+![Dominik-Ilja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dominik-Ilja&theme=omni&show_icons=true&hide_border=false&title_color=FF4B82&icon_color=19F9D8&text_color=e6e6e6&bg_color=222223)
 
-<!--
-**Dominik-Ilja/Dominik-Ilja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominik-Ilja&langs_count=10&layout=compact&title_color=FF4B82&icon_color=19F9D8&text_color=e6e6e6&bg_color=222223)
